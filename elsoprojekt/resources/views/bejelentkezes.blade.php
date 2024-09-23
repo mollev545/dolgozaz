@@ -11,7 +11,7 @@
     <title>Bejelentkezés</title>
   </head>
   <body>
-    <h1>Bejelentkezés</h1>
+    <h1>Ez a Bejelentkezés oldal</h1>
 
     <!-- Optional JavaScript; choose one of the two! -->
 

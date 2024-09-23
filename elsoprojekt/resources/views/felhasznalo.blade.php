@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="hu">
   <head>
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -11,7 +11,7 @@
     <title>Felhasználó</title>
   </head>
   <body>
-    <h1>Felhasználó</h1>
+    <h1>Ez a Felhasználó oldal</h1>
 
     <!-- Optional JavaScript; choose one of the two! -->
 
